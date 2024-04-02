@@ -1,6 +1,8 @@
 # Persyaratan penerimaan PNS
 ALGORITMA DAN STRUKTUR DATA2 TUGAS
+
 Nama : Muhammad Idris Marzuki
+
 NIM : 23090164
 
 Kelas : 2B
